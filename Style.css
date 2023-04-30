@@ -1,0 +1,150 @@
+/* Header Index */
+header{
+    padding-top: 2%;
+    padding-bottom: 0,1%;
+    text-align: center;
+    background-color: rgb(243, 243, 234);}
+
+header h1{
+    font-family: Bienvenidos;
+    font-size: xx-large;
+    font-weight: bolder;}
+
+    @font-face {
+        font-family: Bienvenidos;
+        src: url(RubikPuddles-Regular.ttf);}
+
+
+header h3{
+    font-family: Titulos Pestañas;    
+    text-align: center;}
+
+    @font-face {
+        font-family: Titulos Pestañas;
+        src: url(IndieFlower-Regular.ttf);}
+
+header p{
+    border: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: large;
+    font-family: intro;    
+    text-align: justify;
+    padding: 0,5%;
+    background-color:rgb(234, 222, 207);}  
+
+    @font-face {
+        font-family: intro;
+        src: url(DancingScript-VariableFont_wght.ttf);}
+
+
+/* Nav Ul */
+nav{
+    font-family: Titulos Pestañas;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(251, 230, 230);}
+   
+
+    @font-face {
+       font-family: Titulos Pestañas;
+       src: url(IndieFlower-Regular.ttf);}
+
+nav ul li{
+    margin-left: 8%;
+    border: 100%;
+    background-color: bisque;
+    float: left;
+    width: 14%;
+    height: min-content;
+    list-style: none;}
+
+nav li a{
+    text-decoration: none;
+    color: black;}    
+
+#MIndex{
+    background-color: rgb(251, 230, 230);
+}
+    
+/* Horarios */
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;}
+    
+    th{text-align: left;}
+
+    @font-face {
+        font-family: Titulos Pestañas;
+        src: url(IndieFlower-Regular.ttf);}
+
+    #horarios{
+        font-family: Titulos Pestañas;
+        font-size: large;}
+
+    /* Dias */
+    #lunes{color: blue;font-size: medium; font-weight: bold;}
+    #martes{color: rgb(196, 111, 235);font-size: medium; font-weight: bold;}
+    #miercoles{color: rgb(79, 178, 114);font-size: medium; font-weight: bold;}
+    #jueves{color: rgb(149, 189, 8);font-size: medium; font-weight: bold;}
+    #viernes{color: rgb(107, 43, 43);font-size: medium; font-weight: bold;}
+    #sabado{color: rgb(10, 152, 159);font-size: medium; font-weight: bold;}
+
+    /* Mañana */
+    #ml{color: blue; font-size: smaller;}
+    #mm{color: rgb(196, 111, 235);font-size: smaller;font-style: italic;}
+    #mmi{color: rgb(79, 178, 114);font-size: smaller;font-style: italic;}
+    #mj{color: rgb(149, 189, 8);font-size: smaller;font-style: italic;}
+    #mv{color: rgb(107, 43, 43);font-size: smaller;font-style: italic;}
+    #ms{color: rgb(10, 152, 159);font-size: smaller;font-style: italic;}
+
+    /* Tarde */
+    #tl{color: blue;font-size: smaller;font-style: italic;}
+    #tm{color: rgb(196, 111, 235);font-size: smaller;font-style: italic;}
+    #tmi{color: rgb(79, 178, 114);font-size: smaller;font-style: italic;}
+    #tj{color: rgb(149, 189, 8);font-size: smaller;font-style: italic;}
+    #tv{color: rgb(107, 43, 43);font-size: smaller;font-style: italic;}
+    #ts{color: rgb(10, 152, 159);font-size: smaller;font-style: italic;}
+
+     /* Contactos */
+     @font-face{
+        font-family: Titulos Pestañas;
+        src: url(IndieFlower-Regular.ttf);}
+    
+    #contacto{
+        border-top: 10%;
+        font-family: Titulos Pestañas;
+        font-size: large;
+        text-align: center;}
+
+    /* Reclamos */
+    @font-face{
+        font-family: Titulos Pestañas;
+        src: url(IndieFlower-Regular.ttf);}
+    
+    #reclamos{
+        border-top: 10%;
+        font-family: Titulos Pestañas;
+        font-size: large;
+        text-align: center;}
+
+    /* Footer */
+    @font-face{
+        font-family: Title;
+        src: url(IndieFlower-Regular.ttf);}
+
+    footer{
+        font-family: Title;
+        font-weight: bolder;
+        font-size: medium;
+        text-align: center;
+        background-color: aliceblue;}  
+
+
+  
+
+
+
+
+    
